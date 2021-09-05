@@ -43,7 +43,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-
+<!--
 <div style="display: block" align="left" style="margin: 0; padding: 0;"><br>
   <p> Languages <br> and Tools: </p>
   <img align="center" alt="Python Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -57,6 +57,8 @@ me.say_hi()
   <img align="center" alt="HTML Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+-->
+
 
 <div align="right">
     <img width="49%" height="160em" src="https://github-readme-stats.vercel.app/api?username=claracavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
