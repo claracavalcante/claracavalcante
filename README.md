@@ -58,9 +58,9 @@ me.say_hi()
   <img align="center" alt="CSS Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div align="right" style="margin: 0; padding: 0; float: right;">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=claracavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracavalcante&layout=compact&langs_count=5&theme=dracula"/>
+<div align="right">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=claracavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracavalcante&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 
 ##
