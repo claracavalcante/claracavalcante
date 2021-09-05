@@ -16,7 +16,6 @@
   <a href="https://www.linkedin.com/in/anaclaracavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
 
 <div style="display: inline_block"><br>
   <img align="left" alt="Clara's Avatar heart" height="130" src="https://media.discordapp.net/attachments/423702191061205004/883979329674022952/avatar4.gif">
@@ -43,30 +42,58 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=claracavalcante.visitor-badge" alt="visitors">
+  <a href="https://github.com/claracavalcante/claracavalcante/issues/1"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything!">
+</p>
+
+
+
+
+
+
+
+
+<!--Para quando eu decidir colocar as linguagens, tecnologias e etc:-->
+<!-- Inspo: https://raw.githubusercontent.com/adamalston/adamalston/master/README.md -->
+
 <!--
-<div style="display: block" align="left" style="margin: 0; padding: 0;"><br>
-  <p> Languages <br> and Tools: </p>
-  <img align="center" alt="Python Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <br>
-  <br>
-  <img align="center" alt="MySQL Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Linux Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <br>
-  <br>
-  <img align="center" alt="HTML Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td><img src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" alt="Python"> <img src="https://img.shields.io/badge/-Java-000?&amp;logo=Java&amp;logoColor=007396" alt="Java"> <img src="https://img.shields.io/badge/-C-000?&amp;logo=C" alt="C"> <img src="https://img.shields.io/badge/-SQL-000?&amp;logo=MySQL" alt="SQL"> <img src="https://img.shields.io/badge/-Golang-000?&amp;logo=Golang" alt="Golang"> <img src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript-000?&amp;logo=TypeScript" alt="TypeScript"> <img src="https://img.shields.io/badge/-C++-000?&amp;logo=c%2b%2b&amp;logoColor=00599C" alt="C++"></td>
+    </tr>
+    <tr>
+      <td><strong>Tecnologies</strong></td>
+      <td><img src="https://img.shields.io/badge/-AWS-000?&amp;logo=Amazon-AWS&amp;logoColor=F90" alt="AWS"> <img src="https://img.shields.io/badge/-Linux-000?&amp;logo=Linux" alt="Linux"> <img src="https://img.shields.io/badge/-Django-000?&amp;logo=Django" alt="Django"> <img src="https://img.shields.io/badge/-Flask-000?&amp;logo=Flask" alt="Flask"> <img src="https://img.shields.io/badge/-Docker-000?&amp;logo=Docker" alt="Docker"> <img src="https://img.shields.io/badge/-Kubernetes-000?&amp;logo=Kubernetes" alt="Kubernetes"> <img src="https://img.shields.io/badge/-PyTorch-000?&amp;logo=PyTorch" alt="PyTorch"> <img src="https://img.shields.io/badge/-React-000?&amp;logo=React" alt="React"> <img src="https://img.shields.io/badge/-Spring-000?&amp;logo=Spring" alt="Spring"> <img src="https://img.shields.io/badge/-TensorFlow-000?&amp;logo=TensorFlow" alt="TensorFlow"> <img src="https://img.shields.io/badge/-googlecloud-000?&amp;logo=googlecloud" alt="Google Cloud"></td>
+    </tr>
+    <tr>
+      <td><strong>Favorite Projects</strong></td>
+      <td><a href="https://github.com/adamalston/v2"><img src="https://img.shields.io/badge/-🧬%20My%20Website-000" alt=""></a> <a href="https://github.com/adamalston/COVID-19-Dashboard"><img src="https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000" alt=""></a> <a href="https://github.com/adamalston/Summarizer"><img src="https://img.shields.io/badge/-📝%20Summarizer-000" alt=""></a> <a href="https://github.com/adamalston/overwatch"><img src="https://img.shields.io/badge/-🔬%20Overwatch-000" alt=""></a> <a href="https://github.com/adamalston/kubesat"><img src="https://img.shields.io/badge/-🛰%20KubeSat-000" alt=""></a></td>
+    </tr>
+  </tbody>
+</table>
 -->
 
 
+
+  
+  
+  
+  
+
+
+
+<!-- OTHER TEMPLATES -->
+<!--
+Stats
 <div align="right">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=claracavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracavalcante&layout=compact&langs_count=5&theme=dracula"/>
 </div>
-
-##
-
+-->
 
 <!--
 <div align="right"> 
@@ -76,22 +103,21 @@ me.say_hi()
 </div>
 -->
 
+<!--
+Markdown visitors badge
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=claracavalcante.visitor-badge)
+-->
+
 
 <!--
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=claracavalcante.visitor-badge)
-
-
 speech_balloon   Ask me about anything here! I am happy to help.
 -> then create an issue in this repo and link to it
 
 
 
 
-**claracavalcante/claracavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -101,24 +127,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
-
-Languages and tools:
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 
 Streak stats:
