@@ -1,6 +1,5 @@
 <h3 align="center">👋 Olá, Hello, Hola, Salut, Hallo, Nǐ hǎo, hyvää päivää, Mholweni, नमस्ते, xin chào, שלום</h3>
 
-<br>
 <!-- Simple url header 
 <p align="center">
   <!-- <a href="">Website</a> •  
@@ -60,8 +59,8 @@ me.say_hi()
 </div>
 
 <div align="right" style="margin: 0; padding: 0; float: right;">
-    <img height="174em" src="https://github-readme-stats.vercel.app/api?username=claracavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracavalcante&layout=compact&langs_count=5&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=claracavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracavalcante&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 
 ##
