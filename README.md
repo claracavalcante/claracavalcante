@@ -1,12 +1,13 @@
 <h3 align="center">👋 Olá, Hello, Hola, Salut, Hallo, Nǐ hǎo, hyvää päivää, Mholweni, नमस्ते, xin chào, שלום</h3>
 
-<!-- Simple url header -->
+<br>
+<!-- Simple url header 
 <p align="center">
-  <!-- <a href="">Website</a> •  -->
+  <!-- <a href="">Website</a> •  
   <a href="https://www.linkedin.com/in/anaclaracavalcante/">LinkedIn</a> •
   <a href="https://twitter.com/lauragift_">Twitter</a> •
   <a href="https://www.twitch.tv/meetclara">Twitch</a>
-</p>
+</p> -->
 
 <!-- Url header with images -->
 <p align="center"> 
