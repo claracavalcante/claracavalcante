@@ -61,8 +61,8 @@ me.say_hi()
 
 
 <div align="right">
-    <img width="49%" height="160em" src="https://github-readme-stats.vercel.app/api?username=claracavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img width="49%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracavalcante&layout=compact&langs_count=5&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=claracavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracavalcante&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 
 ##
