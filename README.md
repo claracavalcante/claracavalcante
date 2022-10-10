@@ -1,5 +1,7 @@
 <h3 align="center">👋 Olá, Hello, Hola, Salut, Hallo, Nǐ hǎo, hyvää päivää, Mholweni, नमस्ते, xin chào, שלום</h3>
 
+(Qonto recruiter, if you are checking my profile, please read my note at the end.)
+
 <!-- Simple url header 
 <p align="center">
   <!-- <a href="">Website</a> •  
@@ -41,6 +43,8 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+Hi, Qonto recruiter! This is something I just realized I forgot to add to my application: My main programming languages are Python and Java. As of Ruby and Golang: I have attended talks (GopherCon) and a hands-on workshop (with Ronna Steinberg @ronnax) on Go, and I really would love to learn it. I have an academic experience with Ruby. As a part of the Software Engineering I course, I was required to build an application using Ruby on Rails, Docker, GitHub, and other tools.
 
 
 <p align="right">
