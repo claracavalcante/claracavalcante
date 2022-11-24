@@ -1,7 +1,5 @@
 <h3 align="center">👋 Olá, Hello, Hola, Salut, Hallo, Nǐ hǎo, hyvää päivää, Mholweni, नमस्ते, xin chào, שלום</h3>
 
-<h6 align="center"> (Qonto recruiter, if you are checking my profile, please read my note at the end.) </h3>
-
 <!-- Simple url header 
 <p align="center">
   <!-- <a href="">Website</a> •  
