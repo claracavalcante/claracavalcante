@@ -46,7 +46,6 @@ me.say_hi()
 
 <br><br>
 
-Hi, Qonto recruiter! This is something I just realized I forgot to add to my application: My main programming languages are Python and Java. As of Ruby and Golang: I have attended talks (GopherCon) and a hands-on workshop (with Ronna Steinberg @ronnax) on Go, and I really would love to learn it. I have an academic experience with Ruby. As a part of the Software Engineering I course, I was required to build an application using Ruby on Rails, Docker, GitHub, and other tools.
 
 
 <p align="right">
